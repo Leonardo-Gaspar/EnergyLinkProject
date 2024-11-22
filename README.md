@@ -5,6 +5,8 @@
 ## **Descrição do Problema**
 O sistema foi desenvolvido para automatizar o envio de e-mails promocionais personalizados para usuários cadastrados. O objetivo é promover os benefícios da energia limpa (solar e eólica) e incentivar o interesse por soluções sustentáveis, de maneira eficaz e escalável.
 
+## **Link Demonstração Vídeo**
+https://www.youtube.com/watch?v=YKt3zPvLo7g
 ---
 
 ## **Metodologia Utilizada**
@@ -63,3 +65,4 @@ Abaixo está a estrutura de diretórios do repositório:
    venv\Scripts\activate
    pip install -r requirements.txt
    Streamlit run main.py
+

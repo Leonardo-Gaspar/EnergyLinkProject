@@ -55,5 +55,11 @@ Abaixo está a estrutura de diretórios do repositório:
   ORACLE_PASSWORD=your_oracle_password
   ORACLE_DSN=your_oracle_dsn
 
-git clone https://github.com/seu-usuario/projeto_email_marketing.git
-cd projeto_email_marketing
+### **Clone o Repositório**
+
+   ```bash
+   git clone https://github.com/seu-usuario/EnergyLinkProject.git
+   python -m venv venv
+   venv\Scripts\activate
+   pip install -r requirements.txt
+   Streamlit run main.py
